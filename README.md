@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP related to loose comparisons.  The `bug.php` file contains a function that incorrectly handles comparisons between integers and strings. The `bugSolution.php` file provides a corrected version using strict comparison to address this issue.  This is a crucial concept to grasp for writing robust and predictable PHP code.
